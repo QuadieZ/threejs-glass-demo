@@ -1,4 +1,7 @@
 Demo project for Three.js with Next.js and typescript, contains Glass Texture!
+
+![3DGlass_Blog](https://github.com/QuadieZ/threejs-glass-demo/assets/62594692/91e0f3ef-0030-4685-8b1b-afd23f0fa746)
+
 - Glass geometric thingy 100% in Three.js
 - 3D Letter modelled in Blender, imported with GLTFLoader, and textured in Three.js
 
