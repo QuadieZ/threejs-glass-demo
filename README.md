@@ -4,7 +4,7 @@ Demo project for Three.js with Next.js and typescript, contains Glass Texture!
 
 Checkout the [Reference](https://tympanus.net/codrops/2021/10/27/creating-the-effect-of-transparent-glass-and-plastic-in-three-js/) By Kelly Milligan 
 
---
+----
 
 Run the development server:
 
